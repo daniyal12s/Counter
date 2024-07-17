@@ -1,0 +1,49 @@
+*{
+    text-align: center;
+    margin: 0;
+
+}
+
+
+#first{
+
+    margin-top: 350px;
+    font-size: 25px;
+    color: black;
+    background-color: greenyellow;
+    width: 150px;
+    text-align: center;
+    display: inline-block;
+    font-weight: 650;
+    border: 3px solid black;
+
+}
+
+body{
+    background-color: #F6FB7A;
+
+}
+
+
+#second{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 40px;
+
+}
+
+.choice{
+    display: inline;
+    padding-right: 30px;
+
+}
+button{
+    font-size: 20px;
+    font-weight: 700;
+    background-color: greenyellow; 
+}
+
+button:hover{
+    cursor: pointer; 
+    opacity: 0.6;
+}
